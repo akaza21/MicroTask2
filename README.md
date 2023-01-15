@@ -40,7 +40,7 @@
 #### Get a random error message which is handled by a dummy ErrorHandler middleware
 
 ```http
-  GET http://localhost:3000/api/error
+  GET https://qas3k5.deta.dev/api/error
 ```
 
 
@@ -50,7 +50,7 @@
 #### Sign-up(Returns token )
 
 ```http
-  POST http://localhost:3000/api/sign-up
+  POST https://qas3k5.deta.dev/api/sign-up
 ```
 
 | Parameter | Type     | Description                |
@@ -62,7 +62,7 @@
 #### Log In(Returns token)
 
 ```http
-  GET http://localhost:3000/api/sign-in
+  GET https://qas3k5.deta.dev/api/sign-in
 ```
 
 | Parameter | Type     | Description                |
